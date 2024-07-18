@@ -1,0 +1,37 @@
+Number of vertices: 22
+
+Edges (City A - City B: Maintenance Cost)
+City B - City M: 7
+City B - City S: 13
+City B - City K: 35
+City S - City M: 9
+City S - City Q: 16
+City S - City C: 19
+City Q - City C: 25
+City C - City L: 22
+City C - City D: 5
+City C - City K: 7
+City D - City P: 18
+City P - City K: 14
+City K - City H: 32
+City E - City I: 76
+City I - City J: 44
+City I - City T: 11
+City I - City U: 20
+City U - City F: 3
+City U - City X: 30
+City X - City G: 4
+City G - City R: 12
+City J - City T: 8
+City J - City Y: 6
+City T - City Y: 21
+City T - City W: 17
+City W - City N: 55
+
+Additional Repair Costs (City A - City B: Repair Cost)
+City Y - City K: 24
+City J - City P: 10
+City J - City H: 42
+City N - City H: 25
+City J - City E: 31
+City G - City K: 34
